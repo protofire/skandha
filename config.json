@@ -17,7 +17,7 @@
       "entryPoints": [
         "0xB5469A4162d11a1669f3C7b605Ff32EDae8b281a"
       ],
-      "chainId": 534352,
+      "chainId": 534351,
       "nginxPath": "scroll",
       "relayer": "0xprivateKey",
       "beneficiary": "0xC8D966044fba1BeB9a1477791b4c6999D415B19F",
