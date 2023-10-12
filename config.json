@@ -4,6 +4,8 @@
       "entryPoints": [
         "0xB5469A4162d11a1669f3C7b605Ff32EDae8b281a"
       ],
+      "chainId": 1666600000,
+      "nginxPath": "harmony",
       "relayer": "0xprivateKey",
       "beneficiary": "0xC8D966044fba1BeB9a1477791b4c6999D415B19F",
       "rpcEndpoint": "https://rpc.s0.t.hmny.io",
@@ -15,6 +17,8 @@
       "entryPoints": [
         "0xB5469A4162d11a1669f3C7b605Ff32EDae8b281a"
       ],
+      "chainId": 534352,
+      "nginxPath": "scroll",
       "relayer": "0xprivateKey",
       "beneficiary": "0xC8D966044fba1BeB9a1477791b4c6999D415B19F",
       "rpcEndpoint": "http://archive-node.sepolia.scroll.xyz:8545/",
