@@ -1,0 +1,26 @@
+{
+  "networks": {
+    "harmony": {
+      "entryPoints": [
+        "0xB5469A4162d11a1669f3C7b605Ff32EDae8b281a"
+      ],
+      "relayer": "0xprivateKey",
+      "beneficiary": "0xC8D966044fba1BeB9a1477791b4c6999D415B19F",
+      "rpcEndpoint": "https://rpc.s0.t.hmny.io",
+      "minInclusionDenominator": 10,
+      "throttlingSlack": 10,
+      "banSlack": 10
+    },
+    "scroll": {
+      "entryPoints": [
+        "0xB5469A4162d11a1669f3C7b605Ff32EDae8b281a"
+      ],
+      "relayer": "0xprivateKey",
+      "beneficiary": "0xC8D966044fba1BeB9a1477791b4c6999D415B19F",
+      "rpcEndpoint": "http://archive-node.sepolia.scroll.xyz:8545/",
+      "minInclusionDenominator": 10,
+      "throttlingSlack": 10,
+      "banSlack": 10
+    }
+  }
+}
