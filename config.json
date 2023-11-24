@@ -21,7 +21,7 @@
       "nginxPath": "scroll",
       "relayer": "0xprivateKey",
       "beneficiary": "0xC8D966044fba1BeB9a1477791b4c6999D415B19F",
-      "rpcEndpoint": "https://scroll-sepolia.chainstacklabs.com",
+      "rpcEndpoint": "http://archive-node.sepolia.scroll.xyz:8545/",
       "minInclusionDenominator": 10,
       "throttlingSlack": 10,
       "banSlack": 10
